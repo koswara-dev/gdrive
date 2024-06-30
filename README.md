@@ -122,6 +122,6 @@ python gdrive.py drive-usage
 
 ## Buy me a coffe
 
-Jika Anda menyukai proyek ini dan ingin mendukung pengembangannya lebih lanjut, pertimbangkan untuk membeli kami kopi!
+If you like this project and want to support its further development, buy me a coffee!
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/kudajengke404)
